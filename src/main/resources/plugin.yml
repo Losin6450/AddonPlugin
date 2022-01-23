@@ -1,0 +1,6 @@
+name: AddonPlugin
+version: '${project.version}'
+main: me.losin6450.plugin.addonplugin.AddonPlugin
+api-version: 1.17
+authors: [ Losin6450 ]
+description: Addon plugin for minecraft
